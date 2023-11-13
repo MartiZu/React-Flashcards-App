@@ -2,9 +2,9 @@
 
 ## Installation and how to run the App
 1. clone the repo
-2. open the terminal and run ##npm i ## to install the packages
-3. type ##cd my-app## to select the my-app folder
-4. type ##nm start## to start React and open the UI
+2. open the terminal and run "npm i" to install the packages
+3. type "cd my-app" to select the my-app folder
+4. type "nmp start" to start React and open the UI
 5. Have fun! 
 
 ## Overview
